@@ -1,33 +1,35 @@
-## About
-### Name
-Shallker Wang
+## 关于
+### 姓名
+汪晓东
 
-### Current Position
-Senior Front-end Developer
+### 当前职位
+高级前端工程师
 
-### Interested Positions
-- JavaScript Developer
-- Web App Developer
-- Front-end Developer
-- NodeJS Developer
+### 感兴趣的职位
+- JavaScript 工程师
+- Web App 工程师
+- 前端工程师
+- NodeJS 开发者
 
-### About Me
-I'm a professional Front-end and Nodejs developer, dedicate myself to web apps.   
-I have some open source projects on [github.com/shallker](http://github.com/shallker?tab=repositories) and [github.com/shallker-wang](http://github.com/shallker-wang?tab=repositories).   
-I'm the organizer of [object-dom](http://github.com/object-dom).   
-I have a short [list](https://npmjs.org/~shallker-wang) of NPM packages.   
-My current web app project is [browlist.com](http://browlist.com).   
-Browlist features:
-- post-request
-- none-block ui
-- a single page app
-- local data caching
-- responsive on tablet and mobile
+### 介绍我自己
+我是一个专业的前端和NodeJS开发者, 专注于 web app.   
+我有一些开源项目在 [github.com/shallker](http://github.com/shallker?tab=repositories) 和 [github.com/shallker-wang](http://github.com/shallker-wang?tab=repositories) 上.   
+我是 [object-dom](http://github.com/object-dom) 的组织者.   
+我有一个简短的 NPM 包[列表](https://npmjs.org/~shallker-wang).   
+我当前的 web app 项目是 [browlist.com](http://browlist.com).   
+Browlist有以下的特性:
+- 后请求
+- 不阻塞的UI
+- 单页面
+- 前端MVC
+- 前端路由分配
+- 本地数据缓存
+- 响应式布局
 
-I built everything from design to UI components, from front-end app to back-end restful apis.
+从设计到UI部件, 从前端App到后端API都是我一个人搞定的.
 
-## Tech Stacks
-- Applicational JavaScript
+## 技术
+- Application JavaScript
 - NodeJS
 - [Component](https://github.com/component/component)
 - [Express](http://expressjs.com)
@@ -40,50 +42,47 @@ I built everything from design to UI components, from front-end app to back-end 
 - Linux
 - Amazon S3, EC2
 
-## Experiences
-### Position
-Senior Front-end Developer
+## 经验
+### 职位
+高级前端开工程师
 
-### Company
+### 公司
 Profero
 
-### Time Period
-07.15.2012 - now
+### 时间
+2012.07.15 - 现在
 
-### Description
-I'm one of the Front-end team members, taking the latest technologie from the industry and using them on modern browers, building robust, flexible and compitable html templates.   
-
-I was in Singapore during March - May 2013, worked as a lead developer to build the new offical website for Singapore's second large mobile company M1.   
-
-After that, I created a complete Bootstrap like front-end framework including base fonts, buttons, form elements to complex components site menu, mobile menu, modal, tabs and slides for my next big project DFS Consumer, a full responsive eCommence website on desktop, tablet and mobile.   
+### 描述
+我是前端开发团队的一员, 获取行业里最新的技术并把它们使用在现代浏览器上, 创建扎实, 灵活和可兼容的HTML页面.   
+2013年3月到5月期间, 我在新加坡作为一个领导工程师为新加坡第二大移动公司M1创建他们新的官方网站, 参与整个项目的前端开发.   
+之后, 我创建了一个类Bootstrap的前端框架, 包含基本字体, 按钮, 链接, 表单元素到复杂的部件弹窗, 标签, 幻灯片等等, 为我的下一个项目DFS Consumer使用, DFS Consumer是一个在平板, 手机上拥有响应式布局的电子商务网站.   
 
 - - -
 
-### Position
-PHP Developer
+### 职位
+PHP开发工程师
 
-### Company
+### 公司
 Eggsist
 
-### Time Period
-08.15.2011 - 11.15.2011
+### 时间
+2011.08.15 - 2011.11.15
 
-### Description
-I learned everything in a wide range, from agile software development Scrum to content management framework Drupal, relational database MySQL to search engine Sphinx. It was wild.
+### 描述
+我工作在一个很广泛的区域上, 从敏捷开发到内容管理框架, 从关系型数据库到搜索引擎.
 
-## Educations
-### School
-Crystal Education
+## 教育
+### 学校
+水晶石数字教育学院
 
-### Degree
-Associate of Digital Science
+### 学历
+数字科技副学士
 
-### Details
-It was a chance for me to know another industry, discover and reserch the technologies behind those cool animations of Pixar and Dreamworks from model, color and lights.   
+### 详细
+对于我来说, 那是一次机会去了解另外一个行业, 发现和探索那些来自Pixar和Dreamworks的精彩动画之后的技术, 模型, 颜色和灯光.   
+我从那里体验到了艺术.   
 
-I experienced the spirit of art from there.
-
-## Recommendation Letters
+## 推荐信
 Shallker is one of the best front end developers I have worked with in recent years.   
 
 He is driven by producing the highest quality digital product though precise coding. He is fast, yet does not cut corners. He is outstandingly energetic and passionate in the application of his trade, never stopping at any obstacle. He easily adapts to the  challenges of new briefs, no matter how diverse. And has a great manner when dealing with customers.   
